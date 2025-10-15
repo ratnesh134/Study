@@ -6,3 +6,4 @@ seaborn
 xlrd
 plotly
 scikit-learn
+mlxtend
